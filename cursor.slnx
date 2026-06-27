@@ -8,7 +8,9 @@
     <File Path="style.css" />
     <File Path="預設值.png" />
   </Folder>
-  <Folder Name="/方案項目/assets/" />
+  <Folder Name="/方案項目/assets/">
+    <File Path="icon128.PNG" />
+  </Folder>
   <Folder Name="/方案項目/assets/kaitom/">
     <File Path="../../Downloads/sleep_1.PNG" />
     <File Path="../../Downloads/sleep_2.PNG" />
