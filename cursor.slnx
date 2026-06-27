@@ -1,1 +1,96 @@
-<Solution />
+<Solution>
+  <Folder Name="/方案項目/">
+    <File Path="content.js" />
+    <File Path="manifest.json" />
+    <File Path="popup.css" />
+    <File Path="popup.html" />
+    <File Path="popup.js" />
+    <File Path="style.css" />
+    <File Path="預設值.png" />
+  </Folder>
+  <Folder Name="/方案項目/assets/" />
+  <Folder Name="/方案項目/assets/kaitom/">
+    <File Path="../../Downloads/sleep_1.PNG" />
+    <File Path="../../Downloads/sleep_2.PNG" />
+    <File Path="assets/kaitom/e_1.PNG" />
+    <File Path="assets/kaitom/e_2.PNG" />
+    <File Path="assets/kaitom/icon.PNG" />
+    <File Path="assets/kaitom/ne_1.PNG" />
+    <File Path="assets/kaitom/ne_2.PNG" />
+    <File Path="assets/kaitom/nw_1.PNG" />
+    <File Path="assets/kaitom/nw_2.PNG" />
+    <File Path="assets/kaitom/n_1.PNG" />
+    <File Path="assets/kaitom/n_2.PNG" />
+    <File Path="assets/kaitom/se_1.PNG" />
+    <File Path="assets/kaitom/se_2.PNG" />
+    <File Path="assets/kaitom/sw_1.PNG" />
+    <File Path="assets/kaitom/sw_2.PNG" />
+    <File Path="assets/kaitom/s_1.PNG" />
+    <File Path="assets/kaitom/s_2.PNG" />
+    <File Path="assets/kaitom/w_1.PNG" />
+    <File Path="assets/kaitom/w_2.PNG" />
+  </Folder>
+  <Folder Name="/方案項目/assets/kaitoon/">
+    <File Path="assets/kaitoon/e_1.PNG" />
+    <File Path="assets/kaitoon/e_2.PNG" />
+    <File Path="assets/kaitoon/icon.PNG" />
+    <File Path="assets/kaitoon/ne_1.PNG" />
+    <File Path="assets/kaitoon/ne_2.PNG" />
+    <File Path="assets/kaitoon/nw_1.PNG" />
+    <File Path="assets/kaitoon/nw_2.PNG" />
+    <File Path="assets/kaitoon/n_1.PNG" />
+    <File Path="assets/kaitoon/n_2.PNG" />
+    <File Path="assets/kaitoon/se_1.PNG" />
+    <File Path="assets/kaitoon/se_2.PNG" />
+    <File Path="assets/kaitoon/sleep_1.PNG" />
+    <File Path="assets/kaitoon/sleep_2.PNG" />
+    <File Path="assets/kaitoon/sw_1.PNG" />
+    <File Path="assets/kaitoon/sw_2.PNG" />
+    <File Path="assets/kaitoon/s_1.PNG" />
+    <File Path="assets/kaitoon/s_2.PNG" />
+    <File Path="assets/kaitoon/w_1.PNG" />
+    <File Path="assets/kaitoon/w_2.PNG" />
+  </Folder>
+  <Folder Name="/方案項目/assets/kaotung/">
+    <File Path="assets/kaotung/e_1.PNG" />
+    <File Path="assets/kaotung/e_2.PNG" />
+    <File Path="assets/kaotung/icon.PNG" />
+    <File Path="assets/kaotung/ne_1.PNG" />
+    <File Path="assets/kaotung/ne_2.PNG" />
+    <File Path="assets/kaotung/nw_1.PNG" />
+    <File Path="assets/kaotung/nw_2.PNG" />
+    <File Path="assets/kaotung/n_1.PNG" />
+    <File Path="assets/kaotung/n_2.PNG" />
+    <File Path="assets/kaotung/se_1.PNG" />
+    <File Path="assets/kaotung/se_2.PNG" />
+    <File Path="assets/kaotung/sleep_1.PNG" />
+    <File Path="assets/kaotung/sleep_2.PNG" />
+    <File Path="assets/kaotung/sw_1.PNG" />
+    <File Path="assets/kaotung/sw_2.PNG" />
+    <File Path="assets/kaotung/s_1.PNG" />
+    <File Path="assets/kaotung/s_2.PNG" />
+    <File Path="assets/kaotung/w_1.PNG" />
+    <File Path="assets/kaotung/w_2.PNG" />
+  </Folder>
+  <Folder Name="/方案項目/assets/KOKO/">
+    <File Path="assets/KOKO/e_1.PNG" />
+    <File Path="assets/KOKO/e_2.PNG" />
+    <File Path="assets/KOKO/icon.PNG" />
+    <File Path="assets/KOKO/ne_1.PNG" />
+    <File Path="assets/KOKO/ne_2.PNG" />
+    <File Path="assets/KOKO/nw_1.PNG" />
+    <File Path="assets/KOKO/nw_2.PNG" />
+    <File Path="assets/KOKO/n_1.PNG" />
+    <File Path="assets/KOKO/n_2.PNG" />
+    <File Path="assets/KOKO/se_1.PNG" />
+    <File Path="assets/KOKO/se_2.PNG" />
+    <File Path="assets/KOKO/sleep_1.PNG" />
+    <File Path="assets/KOKO/sleep_2.PNG" />
+    <File Path="assets/KOKO/sw_1.PNG" />
+    <File Path="assets/KOKO/sw_2.PNG" />
+    <File Path="assets/KOKO/s_1.PNG" />
+    <File Path="assets/KOKO/s_2.PNG" />
+    <File Path="assets/KOKO/w_1.PNG" />
+    <File Path="assets/KOKO/w_2.PNG" />
+  </Folder>
+</Solution>

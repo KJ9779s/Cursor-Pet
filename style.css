@@ -5,6 +5,5 @@
     z-index: 2147483647;
     pointer-events: none;
 
-    /* ⭐關鍵：避免被裁切 */
     transform: translate(-50%, -50%);
 }

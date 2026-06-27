@@ -2,6 +2,10 @@
   "manifest_version": 3,
   "name": "9779s Follower",
   "version": "1.0",
+  "description": "一款專為 Kao & Jane 粉絲設計的互動式滑鼠追蹤擴充功能。",
+  "icons": {
+    "128": "icon128.PNG"
+  },
   "permissions": [ "storage" ],
   "action": {
     "default_popup": "popup.html"
