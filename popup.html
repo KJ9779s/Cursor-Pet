@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="header">
+    <span> Cursor Pet v1.0</span>
+    <label class="switch">
+      <input type="checkbox" id="enabled">
+      <span class="slider"></span>
+    </label>
+  </div>
+
+  <div class="pet-preview">
+    <button id="prev-btn" class="nav-btn">◀</button>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <img src="assets/s_1.PNG" id="preview-img" alt="pet">
+      <span id="pet-name" style="font-size: 12px; margin-top: 5px; color: #00d4ff;"></span>
+    </div>
+    <button id="next-btn" class="nav-btn">▶</button>
+  </div>
+
+  <div class="controls">
+    <div class="control-row">
+      <label>SCALE</label>
+      <input type="number" id="scale" step="0.1" min="0" max="10.0">
+    </div>
+    <div class="control-row">
+      <label>SPEED</label>
+      <input type="number" id="speed" step="0.01" min="0" max="5.0">
+    </div>
+    <div class="control-row">
+      <label>DISTANCE</label>
+      <input type="number" id="distance" step="1" min="0" max="300">
+    </div>
+
+    <div style="display: flex; justify-content: flex-end; margin-top: 5px;">
+      <button id="reset-btn" style="background:none; border:none; cursor:pointer; padding:0;">
+        <img src="預設值.png" alt="Reset" style="width: 20px; height: 20px;">
+      </button>
+    </div>
+
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

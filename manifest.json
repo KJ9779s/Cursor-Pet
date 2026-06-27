@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "9779s Follower",
+  "version": "1.0",
+  "permissions": [ "storage" ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": [ "<all_urls>" ],
+      "js": [ "content.js" ],
+      "css": [ "style.css" ]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [ "assets/*/*.PNG" ],
+      "matches": [ "<all_urls>" ]
+    }
+  ]
+}
