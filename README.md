@@ -1,7 +1,7 @@
 # 9779s Cursor Pet
 
-這是一個為 9779s 粉絲設計的滑鼠精靈擴充功能。
-A browser extension designed for 9779s fans, featuring interactive cursor pets.
+這是一個為 9779s 設計的滑鼠精靈擴充功能。
+A browser extension designed for 9779s , featuring interactive cursor pets.
 
 ## 功能 / Features
 1. **角色互動**：包含 KOKO、kaitom、kaitoon、kaotung 等多個角色。 (Includes multiple characters like KOKO, kaitom, kaitoon, and kaotung.)
